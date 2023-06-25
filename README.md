@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Hamidreza Farzin</h1>
-<h3 align="center">A Back-End developer 💻</h3>
+<h3 align="center">Back-End developer 💻</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank">Tech Cafe | کافه تِک</a> <br>

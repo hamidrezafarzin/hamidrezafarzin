@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank">Tech Cafe | کافه تِک</a> <br>
+- 👑 Founder of **TwinTech**
 - 💬 Ask me about **Django, DjangoRestApi**
 
 ## 🌐 Socials:

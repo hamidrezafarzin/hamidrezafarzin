@@ -2,8 +2,7 @@
 <h3 align="center">Back-End developer 💻</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on  :    <a href="https://redl.ink/techcAFE/links" target="_blank">Tech Cafe | کافه تِک</a> <br>
-- 👑 Founder of **TwinTech**
+- 🔭 I’m currently working on  :    <a href="https://www.virasmart.co/en/" target="_blank">Vira Smart Label</a> <br>
 - 💬 Ask me about **Django, DjangoRestApi**
 
 ## 🌐 Socials:

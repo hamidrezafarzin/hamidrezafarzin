@@ -1,8 +1,7 @@
 <h1 align="center">Hello , I'm Hamidreza Farzin</h1>
-<h3 align="center">Back-End developer 💻</h3>
+<h3 align="center">Software Engineer 💻</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on  :    <a href="https://www.virasmart.co/en/" target="_blank">Vira Smart Label</a> <br>
 - 💬 Ask me about **Django, DjangoRestApi**
 
 ## 🌐 Socials:
